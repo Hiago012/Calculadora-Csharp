@@ -1,0 +1,15 @@
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\bin\Debug\net6.0\BasicCalculator.exe
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\bin\Debug\net6.0\BasicCalculator.deps.json
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\bin\Debug\net6.0\BasicCalculator.runtimeconfig.json
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\bin\Debug\net6.0\BasicCalculator.dll
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\bin\Debug\net6.0\ref\BasicCalculator.dll
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\bin\Debug\net6.0\BasicCalculator.pdb
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0\BasicCalculator.AssemblyInfo.cs
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0\BasicCalculator.dll
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0\ref\BasicCalculator.dll
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0\BasicCalculator.pdb
+C:\Users\hiago\Desktop\BasicCalculator\BasicCalculator\obj\Debug\net6.0\BasicCalculator.genruntimeconfig.cache
